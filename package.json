@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/batikankutluer/custom-console.git"
   },
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Custom Console outputs with colors and formatting",
   "main": "./dist/cjs/CustomConsole.js",
   "module": "./dist/esm/CustomConsole.mjs",
