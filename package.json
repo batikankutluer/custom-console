@@ -1,5 +1,9 @@
 {
   "name": "@batikankutluer/custom-console",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batikankutluer/custom-console.git"
+  },
   "version": "1.0.0",
   "description": "Custom Console outputs with colors and formatting",
   "main": "./dist/cjs/CustomConsole.js",
